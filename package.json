@@ -1,0 +1,14 @@
+{
+  "name": "mongodb-learn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mongodb.js",
+  "scripts": {
+    "start": "node mongodb.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^4.9.0"
+  }
+}
